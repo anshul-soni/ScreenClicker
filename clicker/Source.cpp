@@ -30,7 +30,7 @@ int main()
 		std::cout << std::endl;
 		do
 		{
-			std::cout << "Press ctrl to add the current mouse position to the list or 'C' to continue" << std::endl;
+			std::cout << "Press ctrl to add the current mouse position to the list or 'S' to continue" << std::endl;
 			POINT mouse = GetMousePosition();
 			std::cout << "\nPoints saved in list : " << mousePoints.size() << std::endl;
 			if (GetAsyncKeyState(VK_CONTROL))
