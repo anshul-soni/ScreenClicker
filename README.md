@@ -1,4 +1,8 @@
 # ScreenClicker
+
+I made this when valve launched their summer sale monster clicker game. 
+I just wanted to get high score in the game without actually playing it to get the discounts.
+
 Run the program
 Enter the time you want the clicker to go on for
 Point the mouse to the position where you want the click to occur
